@@ -1,0 +1,29 @@
+{
+  "name": "phone-data",
+  "version": "1.0.0",
+  "description": "It's plugin which help get data from device.",
+  "cordova": {
+    "id": "phone-data",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Judiks/IonicPhoneData.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Judik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Judiks/IonicPhoneData/issues"
+  },
+  "homepage": "https://github.com/Judiks/IonicPhoneData#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
