@@ -1,4 +1,4 @@
-package phone-data;
+package phonedata;
 
 import android.Manifest;
 import android.content.Context;
