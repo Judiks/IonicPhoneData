@@ -7,10 +7,10 @@
    <platform name="android">
       <config-file parent="/*" target="res/xml/config.xml">
          <feature name="PhoneData">
-            <param name="android-package" value="phone-data.PhoneData" />
+            <param name="android-package" value="phonedata.PhoneData" />
          </feature>
       </config-file>
       <config-file parent="/*" target="AndroidManifest.xml" />
-      <source-file src="src/android/PhoneData.java" target-dir="src/phone-data/PhoneData" />
+      <source-file src="src/android/PhoneData.java" target-dir="src/phonedata/PhoneData" />
    </platform>
 </plugin>
