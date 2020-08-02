@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Judiks/IonicPhoneData.git"
+    "url": "git+https://github.com/Judiks/ionic-phone-data-plugin.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,9 +19,9 @@
   "author": "Judik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Judiks/IonicPhoneData/issues"
+    "url": "https://github.com/Judiks/ionic-phone-data-plugin/issues"
   },
-  "homepage": "https://github.com/Judiks/IonicPhoneData#readme",
+  "homepage": "https://github.com/Judiks/ionic-phone-data-plugin#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
