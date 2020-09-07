@@ -18,7 +18,7 @@ import org.json.JSONObject;
  */
 public class PhoneData extends CordovaPlugin implements ActivityCompat.OnRequestPermissionsResultCallback  {
 
-        private static final int PERMISSION_READ_STATE = 0;
+    private static final int PERMISSION_READ_STATE = 0;
     private static final int PERMISSION_READ_SMS = 1;
     private static final int PERMISSION_READ_PHONE_NUMBERS = 2;
     private static boolean isReadPhoneState = false;
